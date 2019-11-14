@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Stephen Gruver
+ * CollectibleSpawnManager.cs
+ * Assignment #10
+ * Handles the randomization and instantiation of various prefabs
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

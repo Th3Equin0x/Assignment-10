@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Stephen Gruver
+ * Enemy.cs
+ * Assignment #10
+ * Contains the implementation of the Enemy class
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

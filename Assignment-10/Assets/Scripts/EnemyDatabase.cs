@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Stephen Gruver
+ * EnemyDatabase.cs
+ * Assignment #10
+ * Contains a Dictionary for the various instances of the Enemy class
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
